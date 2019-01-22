@@ -72,4 +72,4 @@ Keep track of development and community news at [devdap](http://devdap.com)
 
 ### Copyright and License
 
-© 2018 [devdap](https://devdap.com). All rights reserved. Code released under the [MIT](https://github.com/devdap/Bit-App-Theme/blob/master/LICENSE) license.
+© 2018 [devdap](https://devdap.com). All rights reserved. Code released under the [MIT](https://github.com/devdap/Ds-Drone/blob/master/LICENSE) license.
